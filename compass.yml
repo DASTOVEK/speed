@@ -1,0 +1,13 @@
+name: speed
+id: ari:cloud:compass:a5fd7e86-1037-4957-88e1-656b1179d617:component/30307f94-33fc-4613-b40d-651fee166c5e/28f2917c-46c4-4e78-a8d1-07dcd2afffb7
+description: my TS project is slow. now what?
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
